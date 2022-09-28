@@ -5,7 +5,8 @@ public class Hello{
  
           for(int i=1;i<=10;i++){
 
-               System.out.println("Hello World stevo is back again ... "+i);
+               System.out.println("Hello World stevo java ... "+i);
+
 
 
 
